@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib
+python-multipart
+email-validator
+joblib
+numpy
+pandas
+scikit-learn
+requests
+beautifulsoup4
+apscheduler
